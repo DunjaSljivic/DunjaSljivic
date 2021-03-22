@@ -4,7 +4,8 @@
 - 💞️ I am a creative web developer with 5+ years in design industry.
 - 📫 Would you like to work together, or simply chat about a project?
 -    Don't hesitate to contact me. Open to interesting projects & job opportunities.
-   ✨ Email: dunjasljivic@hotmail.com ✨
+          
+          ✨ Email: dunjasljivic@hotmail.com ✨
 
 
 <!---
